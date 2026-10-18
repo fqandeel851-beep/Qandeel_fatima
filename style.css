@@ -1,0 +1,88 @@
+body{
+     background-color: blueviolet;
+}
+.box1{
+    background-color: gray;
+    width:100px;
+    height: 100px;
+    display: inline-block;
+    margin-right: 90px;
+    padding: 20px;
+    text-align: center;
+}
+.box2{
+    background-color: green;
+      width:100px;
+    height: 100px;
+     display: inline-block;
+    margin-right: 100px;
+    margin-left: 328px;
+     padding: 20px;
+      text-align: center;
+}
+.box3{
+     background-color: palevioletred;
+      width:100px;
+    height: 100px;
+     display: inline-block;
+     margin-left: 305px;
+      padding: 20px;
+ text-align: center;
+}
+.box4{
+     background-color: yellow;
+      width:100px;
+    height: 100px;
+     display: inline-block;
+     margin-left: 139px;
+     margin-right: 100px;
+      padding: 20px;
+       text-align: center;
+}
+.box5{
+ background-color:red;
+      width:100px;
+    height: 100px;
+     display: inline-block;
+      padding: 20px;
+      margin-left: 38px;
+       text-align: center;
+    
+}
+.box6{
+ background-color: blue;
+      width:100px;
+    height: 100px;
+     display: inline-block;
+     margin-left: 138px;
+      padding: 20px;
+       text-align: center;
+}
+.box7{
+ background-color: lightgreen;
+      width:100px;
+    height: 100px;
+     display: inline-block;
+     margin-left: 130px;
+      padding: 20px;
+       text-align: center;
+}
+.box8{
+ background-color: white;
+      width:100px;
+    height: 100px;
+     display: inline-block;
+     margin-left: 280px;
+     box-shadow: 4px 4px 2px black;
+      padding: 20px;
+       text-align: center;
+}
+.box9{
+ background-color: aqua;
+      width:100px;
+    height: 100px;
+     display: inline-block;
+     margin-left: 420px;
+      padding: 20px;
+       text-align: center;
+}
